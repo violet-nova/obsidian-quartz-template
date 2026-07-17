@@ -90,13 +90,4 @@ const config: QuartzConfig = {
     ],
   },
 }
-plugins:
-  - source:
-      name: quartz-themes
-      repo: "https://github.com/saberzero1/quartz-themes.git"
-      subdir: plugin
-    enabled: true
-    options:
-      theme: "tokyo-night"
-      mode: both
 export default config
