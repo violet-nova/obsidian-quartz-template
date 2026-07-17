@@ -4,36 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "aff75c26b284bdef",
+        "id": "4c7274062f22e2c8",
         "type": "tabs",
         "children": [
           {
             "id": "71766aa2fbd05bf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Party/Members/Kal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kal"
             }
-          }
-        ]
-      },
-      {
-        "id": "4c7274062f22e2c8",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "666003abc50d37d5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0b94f09564d8c6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Non-Mirrorwood NPCs/Mara Cineglass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mara Cineglass"
+            }
+          },
+          {
+            "id": "a5c108a096c75d86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emmet Caskin"
+            }
+          },
+          {
+            "id": "4e4f38db54c05e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Tamaris Telescope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tamaris Telescope"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,42 +235,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "image-picker:Open Image Picker": false
+      "bases:Create new base": false
     }
   },
-  "active": "666003abc50d37d5",
+  "active": "0b94f09564d8c6c8",
   "lastOpenFiles": [
-    "Missions/Taking Down Corvin Hale.md",
-    "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
-    "Factions/The Tamaris Telescope.md",
-    "The Mailers/Members/Jungo Jargon.md",
-    "Missions/Refugee Rescue Mission.md",
-    "snow griffon.md",
-    "Missions/Mysterious Cargo Mission.md",
-    "Non-Mirrorwood NPCs/Iris.md",
-    "Pasted image 20260716214740.png",
-    "Pasted image 20260716214658.png",
-    "Snow Unicorn.md",
-    "Factions/The Order of Mottus.md",
-    "Charmwork.md",
-    "Non-Mirrorwood NPCs/Alfred Mottus.md",
-    "Non-Mirrorwood NPCs/Ash Voss.md",
-    "Non-Mirrorwood NPCs/Celian Marrow.md",
-    "Mirrorwood Community/Notable NPCs/Philip.md",
-    "Mirrorwood Community/Culture and Politics.md",
-    "Mirrorwood Community/Lakewater.md",
-    "Missions/Disturbed Morokai Mission.md",
-    "Mirrorwood Community/Notable NPCs/Lloyd Mattison.md",
-    "Mirrorwood Community/Notable NPCs/Lilah Wren.md",
-    "Mirrorwood Community/Notable NPCs/Goz.md",
-    "Non-Mirrorwood NPCs/Ed Hammer.md",
-    "Factions/Synapse Wreath.md",
+    "Mirrorwood Community/Notable NPCs/Mamo.md",
     "Non-Mirrorwood NPCs/Mara Cineglass.md",
+    "Non-Mirrorwood NPCs/Ash Voss.md",
+    "Missions/Disturbed Morokai Mission.md",
+    "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
+    "Mirrorwood Community/Notable NPCs/Philip.md",
+    "Factions/Meridian Coalition.md",
+    "The Party/Members/Kal.md",
+    "Factions/The Tamaris Telescope.md",
+    "Missions/Precious Cargo Mission.md",
+    "Mirrorwood Community/Mirrorwood (location).md",
+    "The Party/Members/Zyx.md",
+    "The Party/Members/2D.md",
+    "The Party/Members/Finley.md",
+    "The Party/Members/Jungo Jargon.md",
+    "The Red Empire.md",
+    "Regions of Tamaris/Pinelocke.md",
+    "Regions of Tamaris/The Starfire Pelagic.md",
     "Regions of Tamaris/Malvarose.md",
+    "Regions of Tamaris/Acanthia.md",
     "Regions of Tamaris/Meridian Valley.md",
-    "signal-2026-07-16-18-32-56-911_002.jpg",
+    "Regions of Tamaris/Untitled (# Name clash 2026-07-15 s92sl8C #).md",
+    "Regions of Tamaris/Red Empire.md",
     "Regions of Tamaris",
+    "Non-Mirrorwood NPCs/Amy Nementia.md",
+    "Non-Mirrorwood NPCs/Commander Gwen Alco.md",
+    "Non-Mirrorwood NPCs/Corvus Wright.md",
     "Factions",
     "Non-Mirrorwood NPCs",
     "Untitled 2.canvas",
@@ -238,7 +277,7 @@
     "Mirrorwood Community/Notable NPCs",
     "Mirrorwood Community/Culture and Politics",
     "Mirrorwood Community",
-    "The Mailers/Members",
-    "The Mailers"
+    "The Party/Members",
+    "The Party"
   ]
 }

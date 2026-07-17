@@ -1,0 +1,1 @@
+Ed Hammer is a member of the [[Rust Devils]] who was disturbing [[Kausi]] in the [[Disturbed Morokai Mission]]. 

@@ -1,0 +1,1 @@
+Lio Finch is a Malvarosi investor who appeared in [[Taking Down Corvin Hale]]. He asked questions about manufacturing and The Mailers successfully bluffed him.
