@@ -1,0 +1,1 @@
+The Lakewater in Mirrorwood has been known to cause side effects. Small doses can cause people to glow purple, larger doses are not safe. 

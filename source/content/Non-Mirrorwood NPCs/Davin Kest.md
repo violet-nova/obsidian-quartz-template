@@ -1,0 +1,1 @@
+Davin Kest is the alias of an operative who was encountered by the Mailers during [[Taking Down Corvin Hale]]. Little is known except that he, too, was trying to take down Corvin, which seemed to involve posing as an administrator. 

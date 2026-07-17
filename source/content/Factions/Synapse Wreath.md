@@ -11,5 +11,5 @@ Synapse Wreath are a network of amateur charmants and quintessicists who exchang
 
 ### Of General Fame
 
-* Emery Choi (folk [charmant](Charmwork), inquisitive, rebellious, relentless)
-* Nekane Parra (amateur [quintessicist](Quintessics), prescient, argumentative, dogged
+* Emery Choi (folk [charmant](Charmwork.md), inquisitive, rebellious, relentless)
+* Nekane Parra (amateur [quintessicist](Quintessics.md), prescient, argumentative, dogged

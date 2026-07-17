@@ -1,4 +1,4 @@
-
+Corvin Hale is CEO of Hale industries. 
 
 
 ![[signal-2026-07-16-18-32-56-911_002.jpg]]

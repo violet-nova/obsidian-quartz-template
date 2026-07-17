@@ -11,10 +11,14 @@
             "id": "71766aa2fbd05bf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Mailers/List of Mailer-Owned Foundations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "List of Mailer-Owned Foundations"
             }
           }
         ]
@@ -27,10 +31,14 @@
             "id": "666003abc50d37d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Fauna/SnowPo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SnowPo"
             }
           }
         ]
@@ -196,36 +204,40 @@
       "image-picker:Open Image Picker": false
     }
   },
-  "active": "666003abc50d37d5",
+  "active": "71766aa2fbd05bf2",
   "lastOpenFiles": [
-    "Missions/Taking Down Corvin Hale.md",
-    "Mirrorwood Community/Notable NPCs/Emmet Caskin.md",
-    "Factions/The Tamaris Telescope.md",
-    "The Mailers/Members/Jungo Jargon.md",
-    "Missions/Refugee Rescue Mission.md",
-    "snow griffon.md",
-    "Missions/Mysterious Cargo Mission.md",
+    "The Mailers/Crew Stats.md",
+    "The Mailers/Big Bird.md",
+    "Regions of Tamaris/Malvarose.md",
+    "Regions of Tamaris/Acanthia.md",
+    "Non-Mirrorwood NPCs/The Passage Brothers.md",
+    "Non-Mirrorwood NPCs/Sable Kent.md",
+    "Non-Mirrorwood NPCs/Mara Cineglass.md",
+    "Non-Mirrorwood NPCs/Lio Finch.md",
+    "Non-Mirrorwood NPCs/Kausi.md",
     "Non-Mirrorwood NPCs/Iris.md",
+    "Non-Mirrorwood NPCs/Garnet Haze.md",
+    "Non-Mirrorwood NPCs/Davin Kest.md",
+    "Non-Mirrorwood NPCs/Corvin Hale.md",
+    "Factions/The Leafneedles.md",
+    "Non-Mirrorwood NPCs/Commander Gwen Alco.md",
+    "Non-Mirrorwood NPCs/Ash Voss.md",
+    "Non-Mirrorwood NPCs/Amy Nementia.md",
+    "Non-Mirrorwood NPCs/Ed Hammer.md",
+    "Non-Mirrorwood NPCs/Celian Marrow.md",
+    "Non-Mirrorwood NPCs/Alfred Mottus.md",
+    "Regions of Tamaris/Meridian Valley.md",
+    "Regions of Tamaris/Pinelocke.md",
+    "Regions of Tamaris/Red Empire.md",
+    "Regions of Tamaris/The Starfire Pelagic.md",
+    "Mirrorwood Community/Culture and Politics.md",
+    "Mirrorwood Community/Notable NPCs/Lloyd Mattison.md",
+    "Pasted image 20260716231607.png",
+    "Pasted image 20260716231553.png",
+    "Fields of Study",
+    "Fauna",
     "Pasted image 20260716214740.png",
     "Pasted image 20260716214658.png",
-    "Snow Unicorn.md",
-    "Factions/The Order of Mottus.md",
-    "Charmwork.md",
-    "Non-Mirrorwood NPCs/Alfred Mottus.md",
-    "Non-Mirrorwood NPCs/Ash Voss.md",
-    "Non-Mirrorwood NPCs/Celian Marrow.md",
-    "Mirrorwood Community/Notable NPCs/Philip.md",
-    "Mirrorwood Community/Culture and Politics.md",
-    "Mirrorwood Community/Lakewater.md",
-    "Missions/Disturbed Morokai Mission.md",
-    "Mirrorwood Community/Notable NPCs/Lloyd Mattison.md",
-    "Mirrorwood Community/Notable NPCs/Lilah Wren.md",
-    "Mirrorwood Community/Notable NPCs/Goz.md",
-    "Non-Mirrorwood NPCs/Ed Hammer.md",
-    "Factions/Synapse Wreath.md",
-    "Non-Mirrorwood NPCs/Mara Cineglass.md",
-    "Regions of Tamaris/Malvarose.md",
-    "Regions of Tamaris/Meridian Valley.md",
     "signal-2026-07-16-18-32-56-911_002.jpg",
     "Regions of Tamaris",
     "Factions",
@@ -238,7 +250,6 @@
     "Mirrorwood Community/Notable NPCs",
     "Mirrorwood Community/Culture and Politics",
     "Mirrorwood Community",
-    "The Mailers/Members",
-    "The Mailers"
+    "The Mailers/Members"
   ]
 }

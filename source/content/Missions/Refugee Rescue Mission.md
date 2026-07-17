@@ -40,7 +40,7 @@ Safely out of Red Empire territory, the refugees mingled with the Mailers. Pterr
 [[Zyx]] modified the comms so that Jungo could communicate with the [[Snow Unicorn]]. The Unicorn was diving through portals in the Mountains 
 ![[Pasted image 20260716214740.png]]
 
-The Mailers parlayed with [[Iris]], a [[snow griffon]]. [[Jungo Jargon]] offered her a choice, and she chose to have [[2D]] recite a riddle ("What is orange and sounds like a parrot? A carrot.")
+The Mailers parlayed with [[Iris]], a [[Snow Griffon]]. [[Jungo Jargon]] offered her a choice, and she chose to have [[2D]] recite a riddle ("What is orange and sounds like a parrot? A carrot.")
 
 Iris chose to stay on board with the group to take a break from flying. Her two children stayed as well
 
