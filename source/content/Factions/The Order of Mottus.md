@@ -13,7 +13,3 @@ Most Order members are [[SnowPo]]s, but at least one is a giraffe.
 * [[Alfred Mottus]], the leader.
 * Six Snowpo
 
-### Of General Fame
-
-* Finley Shiotani (reporter, chipper, attentive, savvy)
-* Talai Simyu   (editor, stressed, resolute, principled)
