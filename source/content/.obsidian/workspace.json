@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regions of Tamaris/Pinelocke.md",
+                "file": "Missions/Refugee Rescue Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pinelocke"
+              "title": "Refugee Rescue Mission"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regions of Tamaris/Acanthia.md",
+                "file": "Alara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acanthia"
+              "title": "Alara"
             }
           }
         ]
@@ -206,16 +206,24 @@
   },
   "active": "71766aa2fbd05bf2",
   "lastOpenFiles": [
-    "Factions/Tango Foxtrot.md",
-    "Factions/The Order of Mottus.md",
-    "Factions/Rust Devils.md",
-    "Factions/Meridian Coalition.md",
-    "Factions/TSUNAMI.md",
-    "Factions/The Tamaris Telescope.md",
     "Factions/The Leafneedles.md",
-    "Factions/Synapse Wreath.md",
-    "Fields of Study/Quintessics.md",
+    "Alara.md",
+    "Pasted image 20260811215535.png",
     "Missions/Refugee Rescue Mission.md",
+    "Factions/The Order of Mottus.md",
+    "Non-Mirrorwood NPCs/Alfred Mottus.md",
+    "Fauna/Snow Unicorn.md",
+    "Missions/Taking Down Corvin Hale.md",
+    "Fauna/Snow Griffon.md",
+    "Regions of Tamaris/Acanthia.md",
+    "Factions/Tango Foxtrot.md",
+    "Factions/Rust Devils.md",
+    "Factions/The Tamaris Telescope.md",
+    "Factions/TSUNAMI.md",
+    "Factions/Synapse Wreath.md",
+    "Factions/Meridian Coalition.md",
+    "Regions of Tamaris/Pinelocke.md",
+    "Fields of Study/Quintessics.md",
     "index.md",
     "Fauna/SnowPo.md",
     "category-folder/Some note.md",
@@ -224,8 +232,6 @@
     "The Mailers/Big Bird.md",
     "The Mailers/Crew Stats.md",
     "Regions of Tamaris/Serafin.md",
-    "Non-Mirrorwood NPCs/Mara Cineglass.md",
-    "Non-Mirrorwood NPCs/Sable Kent.md",
     "kent 1.png",
     "Pasted image 20260717012030.png",
     "kent.png",
@@ -235,13 +241,6 @@
     "Pasted image 20260716231607.png",
     "Pasted image 20260717002055.png",
     "Pasted image 20260717004025.png",
-    "Pasted image 20260717004558.png",
-    "Snow Unicorn.md",
-    "Non-Mirrorwood NPCs/Ed Hammer.md",
-    "Non-Mirrorwood NPCs/Davin Kest.md",
-    "Non-Mirrorwood NPCs/Corvin Hale.md",
-    "Non-Mirrorwood NPCs/Commander Gwen Alco.md",
-    "Non-Mirrorwood NPCs/Lio Finch.md",
     "Fields of Study",
     "Fauna",
     "Regions of Tamaris",
