@@ -58,6 +58,8 @@ Finley announced over the public trucker channel that "we see you". The other si
 
 Finley checked in with Zyx after the chaos. Zyx said that she hoped Finley would be there to ground her if she ever got lost in the spiritual realm like that again, he would be there to bring her back. Finley responded that "we all" would be there to do so.
 
+Zyx mentioned she wants to find an elder in her tribe, ZZ.
+
 The crew were greeted at the gates of Ironwood City by a couple of polar bears who offered them a bitter caramely beverage. 
 
 They then met with [[Alara]], a contact of the Leafneedles, who after confirming the safety of the refugees, paid the crew three shells.
